@@ -26,6 +26,6 @@ This project aims to develop a sentiment classifier of the twitter data using [N
 
 ### Screenshot:
 
-![](img/screenshot.jpg)
+[![](https://i.imgur.com/t1cV9DY.png)]
 
 
